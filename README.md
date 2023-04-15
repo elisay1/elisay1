@@ -1,5 +1,4 @@
-<p align="center"> <img src="![ELISAY](https://user-images.githubusercontent.com/109012405/232257943-b525a29d-a228-4a07-a424-e63ebcc78b1e.png)
-" style="width:200px"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/109012405/232257943-b525a29d-a228-4a07-a424-e63ebcc78b1e.png" style="width:200px"> </p>
 
 <h1 align="center">Hola 👋, Soy ELISAY</h1>
 <h3 align="center">Estudiante de Ing. Sistemas | Desarrollador front-end y backend junior | Java, PHP, Mysql, SQL, HTML, CSS, SASS, Bootstrap, JavaScript.</h3>
