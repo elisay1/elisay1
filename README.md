@@ -24,10 +24,12 @@
 
 ---
 ## ⚙ Mis Estadísticas de Github
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elisay1&show_icons=true&locale=en&layout=compact" alt="elisay1"/></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisay1&show_icons=true)
 
+---
+## ⚙  Lenguajes que práctico!
 
-![Anurag' Mis Estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=elisay1&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisay1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
