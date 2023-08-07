@@ -54,5 +54,10 @@ Soy una persona enfocada en el trabajo en equipo, comunicación asertiva, respon
 </div>
 </div>
 
+---
+### Mis lenguajes
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elisay1&theme=black-ice&hide_border=true&stroke=222125&background=001933&include_all_commits=false&count_private=false&layout=compact)
+---
+
 
 
