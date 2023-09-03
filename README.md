@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/109012405/232257943-b525a29d-a228-4a07-a424-e63ebcc78b1e.png" style="width:200px"> </p>
+<p align="center"> <img src="https://github.com/elisay1/elisay1/assets/109012405/8462a19d-8f71-436f-b90c-23aeb3621ffa" style="width:200px"> </p>
 <h1 align="center">Hola 👋, Soy ELISAY</h1>
 
 Soy estudiante de ingenieria de sistemas Desarrollador autodidacta de front-end y backend | Java, PHP, Mysql, SQL, HTML, CSS, SASS, Bootstrap, JavaScript. busco crear proyectos que brinden la mejor experiencia para el usuario.  
