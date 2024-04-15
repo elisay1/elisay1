@@ -1,9 +1,17 @@
-<p align="center"> <img src="https://github.com/elisay1/elisay1/assets/109012405/8462a19d-8f71-436f-b90c-23aeb3621ffa" style="width:200px"> </p>
+<p align="center"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109012405/322341977-94ec8467-b4cf-4782-bd7a-f754b7329abf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240415%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240415T031656Z&X-Amz-Expires=300&X-Amz-Signature=689496eec6a236a211df0cabd7addfc51cd4591d07258c61bb5acbb218422c47&X-Amz-SignedHeaders=host&actor_id=109012405&key_id=0&repo_id=628390586" style="width:150px"> </p>
 <h1 align="center">Hola 👋, Soy ELISAY</h1>
 
 Soy estudiante de ingenieria de sistemas Desarrollador autodidacta de front-end y backend | Java, PHP, Mysql, SQL, HTML, CSS, SASS, Bootstrap, JavaScript. busco crear proyectos que brinden la mejor experiencia para el usuario.  
   
 Soy una persona enfocada en el trabajo en equipo, comunicación asertiva, responsable y proactiva, estoy dispuesto a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo de la Programación Para adquirir experiencia y fortalecer mi vida profesional.  
+
+<hr>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">👨‍💻 Sobre mi:</h3><a id="user-content--sobre-mi" class="anchor" aria-label="Permalink: 👨‍💻 Sobre mi:" href="#-sobre-mi"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>🗃 Me gusta colaborar en proyectos.</li>
+<li>📱 Puedes contactarme al: +51 921-674-886</li>
+<li>📩 También puedes escribirme a: <a href="mailto:castanedaelisayes@gmail.com">castanedaelisayes@gmail.com</a></li>
+</ul>
 
 <p>
 <h3 align="left">Sigueme en mis redes sociales:</h3>
@@ -13,11 +21,12 @@ Soy una persona enfocada en el trabajo en equipo, comunicación asertiva, respon
 </p>
 
 ---
-### Portfolio V1.0
-<a href="https://devcode256.github.io/DevCode_Portafolio/" target="_blank">Primer Portafolio <img align="center" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" alt="elisay1" height="40" width="40"/></a>
+### Portfolio Personal
+<a href="https://elisay-code.netlify.app" rel="nofollow"><img src="https://camo.githubusercontent.com/fc49a99ec9304791b33723dd430eadd95f084924a2b74b66f00e309663ef1567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d706f727461666f6c696f20506572736f6e616c2d3334323341363f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-portafolio Personal-01a4f7?style=flat&amp;logo=Google-Chrome&amp;logoColor=white" style="max-width: 100%;"></a>
+
 ---
-### Portfolio V2.0
-<a href="https://elisay-code.netlify.app/" target="_blank">Portafolio Empresa <img align="center" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" alt="elisay1" height="40" width="40"/></a>
+### Portfolio Empresa
+<a href="https://devcode256.github.io/DevCode_Portafolio/" target="_blank">Portafolio Empresa <img align="center" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" alt="elisay1" height="40" width="40"/></a>
 ---
 
 ### Tecnologías
