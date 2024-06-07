@@ -24,11 +24,6 @@ Soy una persona enfocada en el trabajo en equipo, comunicación asertiva, respon
 ### Portfolio Personal
 <a href="https://elisay-code.netlify.app" rel="nofollow"><img src="https://camo.githubusercontent.com/fc49a99ec9304791b33723dd430eadd95f084924a2b74b66f00e309663ef1567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d706f727461666f6c696f20506572736f6e616c2d3334323341363f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-portafolio Personal-01a4f7?style=flat&amp;logo=Google-Chrome&amp;logoColor=white" style="max-width: 100%;"></a>
 
----
-### Portfolio Empresa
-<a href="https://devcode256.github.io/DevCode_Portafolio/" target="_blank">Portafolio Empresa <img align="center" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" alt="elisay1" height="40" width="40"/></a>
----
-
 ### Tecnologías
 
 🎨 Diseño:
