@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola, Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE98A&center=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+Tecnología;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE98A&center=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+Tecnología;siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" /></a>
 </p>
 
 <hr/>
