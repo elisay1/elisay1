@@ -4,9 +4,7 @@
 
 <h1 align="center">¡Hola, Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE98A&center=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+Tecnología;siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" /></a>
-</p>
+> "Transformando ideas en código, un commit a la vez" 🚀
 
 <hr/>
 
@@ -14,7 +12,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas innovadoras. Como estudiante de ingeniería de sistemas, me dedico a:
+Soy un desarrollador Web, Backend & Movil apasionado por crear soluciones tecnológicas innovadoras. Como estudiante de ingeniería de sistemas, me dedico a:
 
 - 🚀 Desarrollar soluciones web Frontend y Backend
 - 💡 Crear experiencias excepcionales para el usuario
@@ -31,6 +29,10 @@ Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas in
   <a href="https://www.youtube.com/@DevCode_256"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://elisay-code.netlify.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
+
+**🎯 Enfoque actual:** Desarrollo  Web, Backend, Movil & IA  
+**🌍 Ubicación:** Ciudad, País  
+**💡 Disponible para:** Colaboraciones & Proyectos Freelance
 
 <hr/>
 
@@ -120,3 +122,4 @@ Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas in
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elisay1&label=Visitas&color=0ae98a&style=flat" alt="Contador de visitas"/>
 </p>
+
